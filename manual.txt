@@ -1,0 +1,24 @@
+# Formas de Pagamento
+As formas de pagamento disponíveis no sistema são:
+- Adiantamento Fornecedor
+- Barter – Troca
+- Boleto Bancário
+- Cartão de Crédito
+- Cartão de Débito
+- Cheque Próprio
+- Crédito ICMS
+- Débito em Conta
+- Depósito
+- Dinheiro
+- Pix
+- Pontos
+- Transferência
+
+# Lancar Contas a pagar
+Um contas a pagar pode ser lancado da seguinte forma:
+- Entrar na pagina contas a pagar
+- Criar no botao novo
+- Preencher as informacoes 
+- Definir numero de parcelas
+- Criar em Gerar parcelas
+- Clicar em salvar
